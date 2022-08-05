@@ -4,12 +4,12 @@ Seja bem-vindo ao projeto AnnaBella!
 
 Aqui coloquei em prática os seguintes conhecimentos:
 
-:backhand index pointing right: Seletores CSS
-:backhand index pointing right: Classes e IDs
-:backhand index pointing right: Tags DIV e Span
-:backhand index pointing right: Bordas
-:backhand index pointing right: Fontes e cores
-:backhand index pointing right:Tamanhos de textos
-:backhand index pointing right: Estilos de textos
-:backhand index pointing right: Cor e imagem de fundo
-:backhand index pointing right: CSS externo
+:point_right: Seletores CSS
+:point_right: Classes e IDs
+:point_right: Tags DIV e Span
+:point_right: Bordas
+:point_right: Fontes e cores
+:point_right: Tamanhos de textos
+:point_right: Estilos de textos
+:point_right: Cor e imagem de fundo
+:point_right: CSS externo
