@@ -1,10 +1,10 @@
-U+1F4AB Olá! U+1F4AB
+dizzy Olá! dizzy
 
 Seja bem-vindo ao projeto AnnaBella!
 
 Aqui coloquei em prática os seguintes conhecimentos:
 
-U+1F449 Seletores CSS
+backhand index pointing right Seletores CSS
 U+1F449 Classes e IDs
 U+1F449 Tags DIV e Span
 U+1F449 Bordas
